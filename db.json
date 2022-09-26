@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
@@ -35,6 +29,36 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Bob",
+      "category": "Dairy",
+      "isIncart": false,
+      "id": 7
+    },
+    {
+      "name": "Bob",
+      "category": "Dairy",
+      "isIncart": false,
+      "id": 8
+    },
+    {
+      "name": "Bob",
+      "category": "Dessert",
+      "isIncart": false,
+      "id": 9
+    },
+    {
+      "name": "Bob",
+      "category": "Dessert",
+      "isIncart": false,
+      "id": 10
+    },
+    {
+      "name": "cars",
+      "category": "Dairy",
+      "isIncart": false,
+      "id": 11
     }
   ]
 }
